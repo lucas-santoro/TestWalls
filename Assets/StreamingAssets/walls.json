@@ -1,0 +1,257 @@
+{
+    "walls": [
+        {      
+            "height": 210.0,
+            "width": 15.0,
+            "class": "Wall",                       
+            "orientation": "horizontal",
+            "x0": 209.0,
+            "y0": 110.0,
+            "x1": 400.0,
+            "y1": 110.0
+        },
+        {       
+            "height": 225.0,
+            "width": 15.0,
+            "class": "Wall",                     
+            "orientation": "horizontal",
+            "x0": 400.0,
+            "y0": 110.0,
+            "x1": 602.0,
+            "y1": 110.0
+        },
+        {                      
+            "height": 22.0,
+            "width": 157.0,
+            "class": "Wall",                      
+            "orientation": "vertical",
+            "x0": 400.0,
+            "y0": 110.0,
+            "x1": 400.0,
+            "y1": 247.0
+        },
+        {   
+            "height": 20.0,
+            "width": 162.0,
+            "class": "Wall",          
+            "orientation": "vertical",
+            "x0": 602.0,
+            "y0": 110.0,
+            "x1": 602.0,
+            "y1": 250.0
+        },
+        {     
+            "height": 16.0,
+            "width": 79.0,
+            "class": "Wall",           
+            "orientation": "vertical",
+            "x0": 207.0,
+            "y0": 109.0,
+            "x1": 207.0,
+            "y1": 170.0
+        },
+        {         
+            "height": 183.0,
+            "width": 22.0,
+            "class": "Wall",             
+            "orientation": "horizontal",
+            "x0": 43.0,
+            "y0": 170.0,
+            "x1": 205.0,
+            "y1": 170.0
+        },
+        {  
+            "height": 15.0,
+            "width": 44.0,
+            "class": "Wall",                     
+            "orientation": "vertical",
+            "x0": 206.0,
+            "y0": 170.0,
+            "x1": 206.0,
+            "y1": 195.0
+        },
+        {      
+            "height": 19.0,
+            "width": 169.0,
+            "class": "Wall",       
+            "orientation": "vertical",
+            "x0": 44.0,
+            "y0": 171.0,
+            "x1": 44.0,
+            "y1": 334.0
+        },
+        {        
+            "height": 132.0,
+            "width": 18.0,
+            "class": "Wall",          
+            "orientation": "horizontal",
+            "x0": 492.0,
+            "y0": 251.0,
+            "x1": 603.0,
+            "y1": 251.0
+        },
+        {         
+            "height": 33.0,
+            "width": 15.0,
+            "class": "Wall",         
+            "orientation": "horizontal",
+            "x0": 217.0,
+            "y0": 258.0,
+            "x1": 235.0,
+            "y1": 258.0
+        },
+        {          
+            "height": 45.5,
+            "width": 15.0,
+            "class": "Wall",        
+            "orientation": "horizontal",
+            "x0": 373.0,
+            "y0": 248.0,
+            "x1": 400.0,
+            "y1": 248.0
+        },
+        {      
+            "height": 113.5,
+            "width": 15.0,
+            "class": "Wall",                
+            "orientation": "horizontal",
+            "x0": 400.0,
+            "y0": 250.0,
+            "x1": 492.0,
+            "y1": 250.0
+        },
+        {   
+            "height": 19.0,
+            "width": 101.0,
+            "class": "Wall",          
+            "orientation": "vertical",
+            "x0": 603.0,
+            "y0": 250.0,
+            "x1": 603.0,
+            "y1": 332.0
+        },
+        {         
+            "height": 15.0,
+            "width": 40.0,
+            "class": "Wall",          
+            "orientation": "vertical",
+            "x0": 216.0,
+            "y0": 259.0,
+            "x1": 216.0,
+            "y1": 282.0
+        },
+        {       
+            "height": 22.0,
+            "width": 85.0,
+            "class": "Wall",                  
+            "orientation": "vertical",
+            "x0": 492.0,
+            "y0": 252.0,
+            "x1": 492.0,
+            "y1": 330.0
+        },
+        {    
+            "height": 145.0,
+            "width": 15.0,
+            "class": "Wall",                                  
+            "orientation": "horizontal",
+            "x0": 44.0,
+            "y0": 336.0,
+            "x1": 167.0,
+            "y1": 336.0
+        },
+        {           
+            "height": 60.0,
+            "width": 15.0,
+            "class": "Wall",           
+            "orientation": "horizontal",
+            "x0": 167.0,
+            "y0": 336.0,
+            "x1": 209.0,
+            "y1": 336.0
+        },
+        {           
+            "height": 115.5,
+            "width": 22.0,
+            "class": "Wall",                      
+            "orientation": "horizontal",
+            "x0": 400.0,
+            "y0": 331.0,
+            "x1": 492.0,
+            "y1": 331.0
+        },
+        {
+            "height": 132.5,
+            "width": 22.0,
+            "class": "Wall",
+            "class_id": 9,          
+            "orientation": "horizontal",
+            "x0": 492.0,
+            "y0": 331.0,
+            "x1": 603.0,
+            "y1": 331.0
+        },
+        {          
+            "height": 23.0,
+            "width": 141.0,
+            "class": "Wall",            
+            "orientation": "vertical",
+            "x0": 399.0,
+            "y0": 332.0,
+            "x1": 399.0,
+            "y1": 451.0
+        },
+        {                
+            "height": 19.0,
+            "width": 191.0,
+            "class": "Wall",            
+            "orientation": "vertical",
+            "x0": 602.0,
+            "y0": 332.0,
+            "x1": 602.0,
+            "y1": 501.0
+        },
+        {      
+            "height": 22.0,
+            "width": 127.0,
+            "class": "Wall",            
+            "orientation": "vertical",
+            "x0": 168.0,
+            "y0": 338.0,
+            "x1": 168.0,
+            "y1": 450.0
+        },
+        {        
+            "height": 254.5,
+            "width": 22.0,
+            "class": "Wall",                    
+            "orientation": "horizontal",
+            "x0": 168.0,
+            "y0": 450.0,
+            "x1": 398.0,
+            "y1": 450.0
+        },
+        {      
+            "height": 23.0,
+            "width": 73.0,
+            "class": "Wall",          
+            "orientation": "vertical",
+            "x0": 399.0,
+            "y0": 451.0,
+            "x1": 399.0,
+            "y1": 502.0
+        },
+        {          
+            "height": 226.0,
+            "width": 22.0,
+            "class": "Wall",                 
+            "orientation": "horizontal",
+            "x0": 400.0,
+            "y0": 502.0,
+            "x1": 602.0,
+            "y1": 502.0
+        }
+    ]
+}
+
+
